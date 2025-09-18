@@ -46,4 +46,4 @@ E eu continuo, mais motivado do que nunca, pronto para transformar ideias em rea
 
 ============================================================
 
-*Escrito com dedicação, paixão pelo código e vontade de crescer.*
+
