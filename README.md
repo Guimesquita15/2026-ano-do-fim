@@ -2,20 +2,42 @@
 
 ============================================================
 
-Hoje celebro o fim de uma etapa e o início de muitas outras.  
+## 🎓 Fim de uma Etapa, Início de uma Jornada
+
+Hoje celebro o **fim de uma etapa** e o **início de muitas outras**.  
 Foram linhas de código, noites de debugging,  
-erros que viraram aprendizado e vitórias compiladas com orgulho.
+erros que se transformaram em aprendizado e vitórias compiladas com orgulho.
+
+---
+
+## 💡 Aprendizado e Transformação
 
 Programar deixou de ser apenas escrever comandos:  
-tornou-se pensar diferente, criar soluções e construir futuro.
+tornou-se **pensar diferente**, **resolver problemas** e **criar futuro**.  
+Cada erro, cada teste, cada compilação me fez mais resiliente e confiante.
 
-Este manifesto não é despedida — é um **commit no repositório da vida**.  
-Uma nova versão de mim nasce, mais forte, resiliente e criativa.
+---
 
-Aos mestres, colegas e à comunidade tech: meu sincero obrigado. 🙏
+## 🖥️ Um Commit na Vida
 
-O **código continua**. A **jornada também**.
+Este manifesto não é uma despedida —  
+é um **commit no repositório da vida**, marcando a versão que sou hoje:  
+mais forte, mais criativo, mais pronto para novos desafios.
+
+---
+
+## 🙏 Gratidão
+
+Aos **mestres**, **colegas** e à **comunidade tech**:  
+meu sincero **obrigado** por cada aprendizado, cada troca, cada incentivo.
+
+---
+
+## 🚀 O Futuro Continua
+
+O **código continua**. A **jornada também**.  
+Que cada linha escrita seja um passo a mais para construir o futuro que desejamos.
 
 ============================================================
 
-_Feito com paixão pelo código_
+*Feito com paixão pelo código e pela aprendizagem contínua.*
